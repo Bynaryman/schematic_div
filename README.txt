@@ -1,0 +1,10 @@
+|
++cell_presets/
+|-gates_model_one
+|-gates_model_two
++model_presets/
+|-with_reg
+|-without_reg
++plots/
+|-area_vs_time
+\constant_area_how_many_VPU
